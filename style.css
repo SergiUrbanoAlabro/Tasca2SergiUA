@@ -14,7 +14,7 @@ img {
   padding: 10px;
 }
 
-.article {
+article {
   height: 135px;
   width: 400px;
 }
@@ -23,6 +23,6 @@ p {
   padding: 10px;
 }
 
-cos {
+.cos {
   display: table;
 }
